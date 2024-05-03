@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - Enemy
+  - LootBox
+  - Weapon
+  - Charm
+  - Boss
+  - WeaponBullet
+  - MeleeCollider
+  - Obsticle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - Obsticles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1887087847
+    locked: 0
+  - name: Background
+    uniqueID: 1060497675
+    locked: 0
+  - name: Obsticles
+    uniqueID: 3534975143
+    locked: 0

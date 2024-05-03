@@ -1,0 +1,1620 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8595603956919792175
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 338824359519457177}
+  m_Layer: 0
+  m_Name: PF Snow Dressing
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &338824359519457177
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8595603956919792175}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.8791435, y: -2.2073684, z: -3.518986}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2237622434252935614}
+  - {fileID: 7527470354782505154}
+  - {fileID: 5342657747567482495}
+  - {fileID: 3111847248567483731}
+  - {fileID: 4852424991161877924}
+  - {fileID: 6559657108341879490}
+  - {fileID: 1969300373837101354}
+  - {fileID: 8928504543064088448}
+  - {fileID: 6732343562339555739}
+  - {fileID: 7421078104148612023}
+  - {fileID: 8880462011335772972}
+  - {fileID: 8898874373960871004}
+  - {fileID: 3228828467400565362}
+  - {fileID: 1656189759477950009}
+  - {fileID: 1693541259069672074}
+  - {fileID: 7135276717358549353}
+  - {fileID: 7877177661685611299}
+  - {fileID: 1525647713181582263}
+  - {fileID: 3410744095949250044}
+  - {fileID: 4522132032735710341}
+  - {fileID: 2454882847071355260}
+  - {fileID: 2911461996056599393}
+  - {fileID: 6125555152316870023}
+  - {fileID: 8679519328999759723}
+  - {fileID: 9113624576190234391}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1300552749095828484
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 338824359519457177}
+    m_Modifications:
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -12.069857
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.2116318
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.518986
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1709450681693463638, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_Name
+      value: Large Snow Pile
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+--- !u!4 &2237622434252935614 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+  m_PrefabInstance: {fileID: 1300552749095828484}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1583697712590459338
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 338824359519457177}
+    m_Modifications:
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 16.275143
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.9323683
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.518986
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5397582905484907524, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_Name
+      value: Small Snow Pile
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+--- !u!4 &1525647713181582263 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+  m_PrefabInstance: {fileID: 1583697712590459338}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1598122427727770692
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 338824359519457177}
+    m_Modifications:
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 17.249657
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.2586312
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.518986
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5397582905484907524, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_Name
+      value: Small Snow Pile (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+--- !u!4 &1656189759477950009 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+  m_PrefabInstance: {fileID: 1598122427727770692}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1909938178052335408
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 338824359519457177}
+    m_Modifications:
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 16.86066
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.0836115
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.518986
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1709450681693463638, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_Name
+      value: Large Snow Pile
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+--- !u!4 &1693541259069672074 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+  m_PrefabInstance: {fileID: 1909938178052335408}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2312950034751054169
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 338824359519457177}
+    m_Modifications:
+    - target: {fileID: 4680588364121731199, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_Name
+      value: Medium Snow Pile (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 17.131939
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.6662583
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.508986
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+--- !u!4 &7877177661685611299 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+  m_PrefabInstance: {fileID: 2312950034751054169}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2506010061696766721
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 338824359519457177}
+    m_Modifications:
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.3498173
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.6917875
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.518986
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5397582905484907524, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_Name
+      value: Small Snow Pile (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+--- !u!4 &2454882847071355260 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+  m_PrefabInstance: {fileID: 2506010061696766721}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2683748401532736184
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 338824359519457177}
+    m_Modifications:
+    - target: {fileID: 4680588364121731199, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_Name
+      value: Medium Snow Pile
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -12.697856
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.1456318
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.518986
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+--- !u!4 &7527470354782505154 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+  m_PrefabInstance: {fileID: 2683748401532736184}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2932348498422401308
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 338824359519457177}
+    m_Modifications:
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8.831119
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.926608
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.518986
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5397582905484907524, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_Name
+      value: Small Snow Pile (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+--- !u!4 &2911461996056599393 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+  m_PrefabInstance: {fileID: 2932348498422401308}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3149304371650283981
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 338824359519457177}
+    m_Modifications:
+    - target: {fileID: 4680588364121731199, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_Name
+      value: Medium Snow Pile (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -13.3808565
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.7733684
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.508986
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+--- !u!4 &7421078104148612023 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+  m_PrefabInstance: {fileID: 3149304371650283981}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3168806509022474030
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 338824359519457177}
+    m_Modifications:
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -11.287223
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.7152715
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.518986
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5397582905484907524, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_Name
+      value: Small Snow Pile (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+--- !u!4 &3111847248567483731 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+  m_PrefabInstance: {fileID: 3168806509022474030}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3177648306902446095
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 338824359519457177}
+    m_Modifications:
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 15.486112
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.492199
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.518986
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5397582905484907524, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_Name
+      value: Small Snow Pile
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+--- !u!4 &3228828467400565362 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+  m_PrefabInstance: {fileID: 3177648306902446095}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3336600846446908179
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 338824359519457177}
+    m_Modifications:
+    - target: {fileID: 4680588364121731199, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_Name
+      value: Medium Snow Pile
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 15.4490595
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.5126143
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.518986
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+--- !u!4 &7135276717358549353 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+  m_PrefabInstance: {fileID: 3336600846446908179}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3423643372119527297
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 338824359519457177}
+    m_Modifications:
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 15.488015
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.3806863
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.518986
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5397582905484907524, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_Name
+      value: Small Snow Pile (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+--- !u!4 &3410744095949250044 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+  m_PrefabInstance: {fileID: 3423643372119527297}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3835866505930802449
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 338824359519457177}
+    m_Modifications:
+    - target: {fileID: 4680588364121731199, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_Name
+      value: Medium Snow Pile
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.0537386
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.0140457
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.518986
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+--- !u!4 &8679519328999759723 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+  m_PrefabInstance: {fileID: 3835866505930802449}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3906665471301809702
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 338824359519457177}
+    m_Modifications:
+    - target: {fileID: 4680588364121731199, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_Name
+      value: Medium Snow Pile
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 16.037144
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.3766317
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.518986
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+--- !u!4 &8898874373960871004 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+  m_PrefabInstance: {fileID: 3906665471301809702}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4474197797733555960
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 338824359519457177}
+    m_Modifications:
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.9767079
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.815465
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.518986
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5397582905484907524, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_Name
+      value: Small Snow Pile
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+--- !u!4 &4522132032735710341 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+  m_PrefabInstance: {fileID: 4474197797733555960}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4864198755918829529
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 338824359519457177}
+    m_Modifications:
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -10.793346
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.4208088
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.518986
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5397582905484907524, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_Name
+      value: Small Snow Pile (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+--- !u!4 &4852424991161877924 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+  m_PrefabInstance: {fileID: 4864198755918829529}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5400575462250464258
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 338824359519457177}
+    m_Modifications:
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -13.418857
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.4206314
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.518986
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5397582905484907524, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_Name
+      value: Small Snow Pile
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+--- !u!4 &5342657747567482495 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+  m_PrefabInstance: {fileID: 5400575462250464258}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6184581219552329722
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 338824359519457177}
+    m_Modifications:
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.7031832
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.511067
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.518986
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5397582905484907524, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_Name
+      value: Small Snow Pile (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+--- !u!4 &6125555152316870023 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+  m_PrefabInstance: {fileID: 6184581219552329722}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6199566663403282296
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 338824359519457177}
+    m_Modifications:
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -13.099762
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.078409
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.518986
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1709450681693463638, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_Name
+      value: Large Snow Pile
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+--- !u!4 &6559657108341879490 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+  m_PrefabInstance: {fileID: 6199566663403282296}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6204896877970940752
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 338824359519457177}
+    m_Modifications:
+    - target: {fileID: 4680588364121731199, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_Name
+      value: Medium Snow Pile
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -11.859044
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.631864
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.518986
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+--- !u!4 &1969300373837101354 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5568811527973755514, guid: 06b95e4991e9fb9409db49d3d14c5416, type: 3}
+  m_PrefabInstance: {fileID: 6204896877970940752}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6753229976322821094
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 338824359519457177}
+    m_Modifications:
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -12.016856
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.5703683
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.518986
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5397582905484907524, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_Name
+      value: Small Snow Pile (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+--- !u!4 &6732343562339555739 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+  m_PrefabInstance: {fileID: 6753229976322821094}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8519791575089407638
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 338824359519457177}
+    m_Modifications:
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 16.872004
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.218587
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.518986
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1709450681693463638, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+      propertyPath: m_Name
+      value: Large Snow Pile
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+--- !u!4 &8880462011335772972 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 937272546143038906, guid: 53aaaebdf4634c142b4a52f57eb77ba2, type: 3}
+  m_PrefabInstance: {fileID: 8519791575089407638}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8880596801901891069
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 338824359519457177}
+    m_Modifications:
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -12.421856
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.130368
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.498986
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5397582905484907524, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_Name
+      value: Small Snow Pile
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+--- !u!4 &8928504543064088448 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+  m_PrefabInstance: {fileID: 8880596801901891069}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9127746869865770346
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 338824359519457177}
+    m_Modifications:
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.219986
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.372573
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.518986
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5397582905484907524, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+      propertyPath: m_Name
+      value: Small Snow Pile (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+--- !u!4 &9113624576190234391 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 60337001045348989, guid: 044d2ccf5ad10f74cba0247702411502, type: 3}
+  m_PrefabInstance: {fileID: 9127746869865770346}
+  m_PrefabAsset: {fileID: 0}

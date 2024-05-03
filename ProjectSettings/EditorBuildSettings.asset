@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/10 - Beta/Screens/Start Screen.unity
+    guid: 17cb428293b71ba41a3b8e7104a79e72
+  - enabled: 1
+    path: Assets/Scenes/10 - Beta/Screens/Video.unity
+    guid: c92bd5ec9f62ac64b887ecf814e0a2d8
+  - enabled: 1
+    path: Assets/Scenes/10 - Beta/Levels/PreFirst.unity
+    guid: 3e327b374957b564b86f83144d2c3624
+  - enabled: 1
+    path: Assets/Scenes/10 - Beta/Levels/First.unity
+    guid: 7fcabe902ccc0464dbd77f135b434453
+  - enabled: 1
+    path: Assets/Scenes/10 - Beta/Levels/Second.unity
+    guid: 517ea50d9af374f49b4f024e60d405ba
+  - enabled: 1
+    path: Assets/Scenes/10 - Beta/Levels/Third.unity
+    guid: 849905f5ea12cb448b0504f1fe112945
+  - enabled: 1
+    path: Assets/Scenes/10 - Beta/Levels/Forth.unity
+    guid: c2e3a71676823534b918f51eed78f103
+  - enabled: 1
+    path: Assets/Scenes/10 - Beta/Levels/Ninth.unity
+    guid: 91e899eaad8bff24ea7d488ff8c8f5a5
+  - enabled: 1
+    path: Assets/Scenes/10 - Beta/Levels/Fifth.unity
+    guid: 6f571444d68b51e49991916920a48268
+  - enabled: 1
+    path: Assets/Scenes/10 - Beta/Levels/Sixth.unity
+    guid: 34419fa10b2fd0944acc7ad3b2e4756c
+  - enabled: 1
+    path: Assets/Scenes/10 - Beta/Levels/Seventh.unity
+    guid: 947f9f1d240440347bbc24b14010991d
+  - enabled: 1
+    path: Assets/Scenes/10 - Beta/Levels/Eighth.unity
+    guid: a10fee6c8a3812d4e82da5141eda3f8b
+  - enabled: 1
+    path: Assets/Scenes/10 - Beta/Levels/Tenth.unity
+    guid: af399c26a652a844b8006450015a502a
+  - enabled: 1
+    path: Assets/Scenes/10 - Beta/Levels/BeforeBoss.unity
+    guid: ed43fa8b51cfd484dbda3e9d47be187c
+  - enabled: 1
+    path: Assets/Scenes/10 - Beta/Levels/FinalBossBeta.unity
+    guid: d8de5445947645648a73e60ab1e1d139
+  - enabled: 1
+    path: Assets/Scenes/10 - Beta/Screens/LoseScene.unity
+    guid: 7a6202cded1d67f4d82627732b35c8c7
+  - enabled: 1
+    path: Assets/Scenes/10 - Beta/Screens/Win Screen.unity
+    guid: b0d8397de2634ab4ca0c6e41e138fd4d
+  m_configObjects: {}

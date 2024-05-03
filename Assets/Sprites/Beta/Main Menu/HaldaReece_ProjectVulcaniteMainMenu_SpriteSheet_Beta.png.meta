@@ -1,0 +1,1042 @@
+fileFormatVersion: 2
+guid: 2e605da0d7e2c4f4ab4142d20004b301
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 675
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d08bee290f8f94f9cc39157caf075a
+      internalID: -851578523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 675
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f32a4b769a9754e8af41d9c333548a
+      internalID: 56463615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 675
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01abe9b0167f47449199e61c3c19541
+      internalID: -2113861253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 675
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736b32ae748cfda4f9695b78f64d1d0c
+      internalID: 352398280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 675
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd71a9c643038c43acac2407db96f1a
+      internalID: 1429753476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 675
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc8316c9667d474a9f6fcb92ca7cde8
+      internalID: 364845631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 675
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf4db0fbce1796429e7f94ff40598be
+      internalID: -742201288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 675
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1369de55cbc88824c9cd46e13b88eab5
+      internalID: 370248238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa18f8df53a3f94791ecd9448946e16
+      internalID: -1596094501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 540
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288597ccd4da1dc41958534fac3b802c
+      internalID: -526357384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 540
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4cc0260720026438cee25922c85ac1
+      internalID: 1242903114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_11
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 540
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e520ded352438084480527d9379fccd4
+      internalID: -330405036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_12
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 540
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf8b2b58da87294a90dc28b3885c131
+      internalID: -1849191157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 540
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d795ebcfecc48284dbe95e1635d670b6
+      internalID: -1969861555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_14
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 540
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67407324ae4bd9a4cb5fb93e7ddf5693
+      internalID: 1685196943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_15
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 540
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420b492b58205ec43927874f9a0ec817
+      internalID: -1150602977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 405
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3652b0cd45ccb694f9e42aa47b10078f
+      internalID: -1997843905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 405
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec954794c5bac2449639e41a8b013a5
+      internalID: -327252918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_18
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 405
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7602103d147da0419bd6eea82b5e5e9
+      internalID: -572936780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 405
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7d0e340121b474cb51bde17cfd3b79
+      internalID: 1592971869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_20
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 405
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd819f537c99f54da42210b921f4e02
+      internalID: -207675696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_21
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 405
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fac92d356734ce40a22b32825e41ed7
+      internalID: 850980727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_22
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 405
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3ecd57e70315848bcd704c68328e79
+      internalID: -1136061355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_23
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 405
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04360e479f8968242b6a5c8a77e30230
+      internalID: 1472610972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4212d022870425f4c9863a36c8bd8861
+      internalID: 1393275948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 270
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01c75ab7f530644d98bb13e62be659e
+      internalID: 798366938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 270
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d018c8b95c9de7f499b0e06cf7a5f2fd
+      internalID: 2072447198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_27
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 270
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58546e4e61cd78c4b9c6f036479aeaf9
+      internalID: 1504912324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_28
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 270
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be5bcc1d128e2c46a46528da002c73a
+      internalID: 1906157347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_29
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 270
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84a012f7b1fcee44871e94562226823
+      internalID: -2129998765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_30
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 270
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ec5dbf08bcf004abc67d8ab9f1b59c
+      internalID: 1737704410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_31
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 270
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ce5b1817994b44a8919caf8e70b82b
+      internalID: -2091076315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f3862ed1325a043b214e9e2400f8b6
+      internalID: 1154719904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 135
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9f763503bf8d64293ee91341b9c395
+      internalID: 798458560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 135
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989454a912daa3342ba0a9571966ad67
+      internalID: 649187311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_35
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 135
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f88a98af0d0f54b95d8580c42fb035
+      internalID: -308993538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_36
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 135
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dca62f592a51f4bba9e8c004c78472
+      internalID: -1313388150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_37
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 135
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac3a0310cf62604aa6e4866849c47d5
+      internalID: -1628887184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_38
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 135
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0dceb2ef7f1384186829cd665e54fc
+      internalID: 1143709986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_39
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 135
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073b6b097ba908d43a59397ef3f99e0a
+      internalID: 287089703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed8e3a185ffcec4592c9b076f4da284
+      internalID: 272350968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_0: -851578523
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_1: 56463615
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_10: 1242903114
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_11: -330405036
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_12: -1849191157
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_13: -1969861555
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_14: 1685196943
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_15: -1150602977
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_16: -1997843905
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_17: -327252918
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_18: -572936780
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_19: 1592971869
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_2: -2113861253
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_20: -207675696
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_21: 850980727
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_22: -1136061355
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_23: 1472610972
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_24: 1393275948
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_25: 798366938
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_26: 2072447198
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_27: 1504912324
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_28: 1906157347
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_29: -2129998765
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_3: 352398280
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_30: 1737704410
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_31: -2091076315
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_32: 1154719904
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_33: 798458560
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_34: 649187311
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_35: -308993538
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_36: -1313388150
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_37: -1628887184
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_38: 1143709986
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_39: 287089703
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_4: 1429753476
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_40: 272350968
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_5: 364845631
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_6: -742201288
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_7: 370248238
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_8: -1596094501
+      HaldaReece_ProjectVulcaniteMainMenu_SpriteSheet_Beta_9: -526357384
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

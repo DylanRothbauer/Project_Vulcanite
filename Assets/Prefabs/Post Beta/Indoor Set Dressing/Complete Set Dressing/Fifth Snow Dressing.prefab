@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7821288857503500936
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5049135701280454623}
+  m_Layer: 0
+  m_Name: Fifth Snow Dressing
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5049135701280454623
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7821288857503500936}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.057495028, y: 0.07819444, z: -0.047838576}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3805016906182311810}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &9165234041537939064
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 5049135701280454623}
+    m_Modifications:
+    - target: {fileID: 5476185257415145978, guid: 2d0ccd2614d3ceb42874de5fce550f03, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.457495
+      objectReference: {fileID: 0}
+    - target: {fileID: 5476185257415145978, guid: 2d0ccd2614d3ceb42874de5fce550f03, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.028194439
+      objectReference: {fileID: 0}
+    - target: {fileID: 5476185257415145978, guid: 2d0ccd2614d3ceb42874de5fce550f03, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.021691192
+      objectReference: {fileID: 0}
+    - target: {fileID: 5476185257415145978, guid: 2d0ccd2614d3ceb42874de5fce550f03, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5476185257415145978, guid: 2d0ccd2614d3ceb42874de5fce550f03, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5476185257415145978, guid: 2d0ccd2614d3ceb42874de5fce550f03, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5476185257415145978, guid: 2d0ccd2614d3ceb42874de5fce550f03, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5476185257415145978, guid: 2d0ccd2614d3ceb42874de5fce550f03, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5476185257415145978, guid: 2d0ccd2614d3ceb42874de5fce550f03, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5476185257415145978, guid: 2d0ccd2614d3ceb42874de5fce550f03, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7600153272119632292, guid: 2d0ccd2614d3ceb42874de5fce550f03, type: 3}
+      propertyPath: m_Name
+      value: EForth Snow Dressing
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 7179159111156845957, guid: 2d0ccd2614d3ceb42874de5fce550f03, type: 3}
+    - {fileID: 1335842929950069665, guid: 2d0ccd2614d3ceb42874de5fce550f03, type: 3}
+    - {fileID: 2950010850257636842, guid: 2d0ccd2614d3ceb42874de5fce550f03, type: 3}
+    - {fileID: 3209498664721673541, guid: 2d0ccd2614d3ceb42874de5fce550f03, type: 3}
+    - {fileID: 8956961475922792342, guid: 2d0ccd2614d3ceb42874de5fce550f03, type: 3}
+    - {fileID: 7394762745225304943, guid: 2d0ccd2614d3ceb42874de5fce550f03, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2d0ccd2614d3ceb42874de5fce550f03, type: 3}
+--- !u!4 &3805016906182311810 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5476185257415145978, guid: 2d0ccd2614d3ceb42874de5fce550f03, type: 3}
+  m_PrefabInstance: {fileID: 9165234041537939064}
+  m_PrefabAsset: {fileID: 0}
